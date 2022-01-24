@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @isabeltusing
+- 👀 I’m interested in making my own video games~
+- 🌱 I’m currently learning SwiftUI
+- 📫 How to reach me: isabellyrict@gmail.com
